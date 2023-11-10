@@ -6,9 +6,8 @@
 
 # Usage
 ```console
-$ git clone https://github.com/HoussemBousmaha/hexdump.git
-$ cd hexdump
-$ clang -o hexdump hexdump.c
-$ ./hexdump sample
+git clone https://github.com/HoussemBousmaha/hexdump.git
+cd hexdump
+clang -o hexdump hexdump.c
+./hexdump sample
 ```
-
