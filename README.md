@@ -1,6 +1,7 @@
 # Hexdump
 
 - A simple program that dumps the hexadecimal representation of a content of a file.
+- It support little indian machines (reverse bytes)
 
 
 
